@@ -72,7 +72,7 @@ OS Interaction Layer
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/VisionTouch.git
+git clone https://github.com/shaurya0702-droid/VisionTouch.git
 cd VisionTouch
 ```
 
